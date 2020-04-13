@@ -1,2 +1,0 @@
-# meliodasbot
-discordbot
